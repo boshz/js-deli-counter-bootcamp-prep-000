@@ -6,4 +6,8 @@ function takeANumber(katzDeliLine, name) {
   }
 }
 
-fucntion currentLine(katzDeliLine)
+fucntion currentLine(katzDeliLine) {
+  if (katzDeliLine.length === 1) {
+    return
+  }
+}
