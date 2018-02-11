@@ -6,3 +6,4 @@ function takeANumber(katzDeliLine, name) {
   }
 }
 
+fucntion currentLine(katzDeliLine)
